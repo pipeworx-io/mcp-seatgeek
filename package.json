@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-seatgeek",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "SeatGeek MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-40ea3f958fb4d23a6cedf9dfae8dfbd76e2db5e01a09b8ca3b83166f86d909d4",
-    "sourceCommit": "00c836ddeaecbdd581dcfb0fb1842efea104006e"
+    "sourceHash": "v1-5d9790ad1282ce7e0799221556eef90c2c92ccf0c8f719d12ec9e7f63b99d16d",
+    "sourceCommit": "6fe8fb3e01138dfc4ebe7d5c246503aab9278d06"
   }
 }
