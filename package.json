@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-seatgeek",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "SeatGeek MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "seatgeek",
     "gatewaySlug": "seatgeek",
-    "sourceHash": "v1-b215e8ede5b04da6f8b2e217b4523317dc58be51b0fcad1cc505400712b0a9ab",
-    "sourceCommit": "6bae4cfa7b6a73bbe014dc8820a19c80c842b21e"
+    "sourceHash": "v1-b6686bf7ef70b19b5b2ea687d29732c09cca27c1df84041f829ea1ad95e6649a",
+    "sourceCommit": "8fc802aa5e23be625ce08d97178f5676c7bc93f3"
   }
 }
